@@ -69,7 +69,7 @@ Tenacity and Optimism.
 
 #### Languages
 
-- **English - A1**
+- **English - A2**
 - **Kazakh - A2**
 - **Russian - Speaking**
 - **Uzbek - native**
