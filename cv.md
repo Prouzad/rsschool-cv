@@ -23,8 +23,13 @@ Tenacity and Optimism.
 
 #### Skills
 
+- **React JS**
+- **NEXT JS**
+- **NEXT-AUTH**
+- **GITHUB**
+- **JavaScript**
 - **HTML5, CSS3**
-- **JavaScript Basics**
+- **SCSS**
 - **Adobe Photoshop, Lightroom**
 - **Take pictures**
 - **VS Code**
